@@ -1,5 +1,6 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "url": "https://polarsoundproduction.gumroad.com/l/ucs-tagger",
-  "notes": "Find & replace in the batch, a preview of what a save changes, naming and description fixes."
+  "notes": "Your tags now reach Audition and Premiere too, a new check finds files whose embedded metadata disagrees with itself, and the save preview matches what is actually written.",
+  "minSupported": "1.0.10"
 }
