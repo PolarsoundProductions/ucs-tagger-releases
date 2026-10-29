@@ -1,5 +1,6 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "url": "https://polarsoundproduction.gumroad.com/l/ucs-tagger",
-  "notes": "Find & replace in the batch, a preview of what a save changes, naming and description fixes."
+  "notes": "The save preview now matches what is actually written, an embedded Creator ID is kept, and the batch Note field shows the same Pro lock as Settings.",
+  "minSupported": "1.0.10"
 }
